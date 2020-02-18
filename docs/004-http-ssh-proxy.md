@@ -6,6 +6,8 @@
 
 ## ssh proxy
 - https://www.mikeheijmans.com/sysadmin/2014/08/12/proxy-ssh-over-socks/
+- https://blog.systemctl.top/2017/2017-09-28_set-proxy-for-git-and-ssh-with-socks5/
+- https://www.zhihu.com/question/27159393/answer/1013891435
 
 ~~~
 对于使用git@协议的，可以配置socks5代理
