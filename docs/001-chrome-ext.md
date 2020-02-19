@@ -6,4 +6,4 @@
 
 ## names
 - 谷歌访问助手
-- astar
+- astar (注意： 这个与 laddervpn 冲突)
